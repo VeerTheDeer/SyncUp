@@ -27,9 +27,3 @@ Users can simply upload or input the audio file of the song they want to transcr
 Integration of additional music sources and platforms for a wider range of songs.
 Enhancement of synchronization algorithm for improved accuracy.
 User-friendly interface development for seamless interaction.
-
-**Contributors:**
-
-Veer Saini
-Noah Leong
-Dhruva Pyapali
