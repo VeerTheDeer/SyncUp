@@ -1,5 +1,6 @@
 # SyncUp
 **UWB Hacks AI Hackathon Project**
+
 **Project Name: SyncUp**
 
 **Overview:**
