@@ -1,7 +1,6 @@
 # SyncUp
-**UWB Hacks AI Hackathon Project
-Project Name: SyncUp
-**
+**UWB Hacks AI Hackathon Project**
+**Project Name: SyncUp**
 
 **Overview:**
 SyncUp is a project developed during the UWB Hacks AI Hackathon held from April 26-28, 2024. Our team participated in the entertainment track, aiming to tackle the issue of inaccurate online transcripts. We noticed that many online transcripts fail to accurately match the audio, leading to discrepancies between what is spoken/sung and what is transcribed.
