@@ -25,7 +25,7 @@ Lyrics Retrieval: Using the Genius API, we fetch the full lyrics of the song bei
 SyncUp Algorithm: Our proprietary algorithm, SyncUp, is employed to synchronize the transcribed text with the audio. This ensures accurate alignment between the audio playback and the displayed lyrics/transcript.
 
 Example Usage:
-Users can simply upload or input the audio file of the song they want to transcribe. SyncLyric will then process the audio, retrieve the lyrics, and display the synchronized transcript for the user to view.
+Users can simply upload or input the audio file of the song they want to transcribe. SyncUp will then process the audio, retrieve the lyrics, and display the synchronized transcript for the user to view.
 
 **Future Improvements:**
 
