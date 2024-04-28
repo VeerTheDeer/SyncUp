@@ -1,0 +1,16 @@
+{
+  "model_sizes": {
+    "tiny": "tiny",
+    "tiny.en": "tiny.en",
+    "base": "base",
+    "base.en": "base.en",
+    "small": "small",
+    "small.en": "small.en",
+    "medium": "medium",
+    "medium.en": "medium.en",
+    "large-v1": "large-v1",
+    "large-v2": "large-v2",
+    "large-v3": "large-v3",
+    "local_model": "local_model"
+  }
+}

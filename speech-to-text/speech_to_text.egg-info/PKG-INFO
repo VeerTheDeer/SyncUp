@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: speech-to-text
+Version: 0.3.6
+Summary: Real-time transcription using faster-whisper
+Home-page: https://github.com/reriiasu/speech-to-text
+Author: reriiasu
+License-File: LICENSE
+Requires-Dist: faster-whisper>=0.10.0
+Requires-Dist: sounddevice>=0.4.6
+Requires-Dist: eel>=0.15.3
+Requires-Dist: soundfile>=0.12.1
+Requires-Dist: websockets>=11.0.3
+Requires-Dist: librosa>=0.10.0.post2
+Requires-Dist: openai>=0.28.1
